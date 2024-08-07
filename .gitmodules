@@ -1,0 +1,6 @@
+[submodule "E-Learning-Back_End"]
+	path = E-Learning-Back_End
+	url = https://github.com/Ali-Hadi-Saker/E-Learning-Back_End.git
+[submodule "E-Learning-Front_End"]
+	path = E-Learning-Front_End
+	url = https://github.com/Ali-Hadi-Saker/E-Learning-Front-End.git
